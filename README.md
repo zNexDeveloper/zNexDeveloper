@@ -14,8 +14,6 @@
  ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublimetext&logoColor=white)<br/> 
  ![Git](https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white) 
  ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-1DA462?style=for-the-badge&logo=googlechrome&logoColor=white) 
- ![WordPress](https://img.shields.io/badge/WordPress-00749C?style=for-the-badge&logo=wordpress&logoColor=white) 
- ![Canva](https://img.shields.io/badge/Canva-3DDAD7?style=for-the-badge&logo=canva&logoColor=white) 
  ![Facebook](https://img.shields.io/badge/Facebook%20Marketing-4267B3?style=for-the-badge&logo=facebook&logoColor=white) 
  <hr/><h3 align="left">My knowledge</h3> 
   
@@ -25,10 +23,6 @@
  ![JavaScript](https://img.shields.io/badge/JavaScript-FF9800?style=for-the-badge&logo=javascript&logoColor=white) 
  ![Node JS](https://img.shields.io/badge/Node%20JS-68A063?style=for-the-badge&logo=node.js&logoColor=white)<br/> 
  ![PHP](https://img.shields.io/badge/PHP-787CB5?style=for-the-badge&logo=php&logoColor=white) 
- ![Laravel](https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white)<br/> 
- ![C++](https://img.shields.io/badge/C++-044F88?style=for-the-badge&logo=c%2b%2b&logoColor=white) <br/> 
- ![MySQL](https://img.shields.io/badge/MySql-00758F?style=for-the-badge&logo=mysql&logoColor=white) 
- ![SqLite](https://img.shields.io/badge/SQLite-0077B6?style=for-the-badge&logo=sqlite&logoColor=white) 
  <h1>My portfolio</h1> 
  <h3><i>•In process...</i></h3> 
  <hr/> 
